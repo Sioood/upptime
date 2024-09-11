@@ -4,17 +4,19 @@
     "url": "https://theodupont.fr",
     "icon": "https://icons.duckduckgo.com/ip3/theodupont.fr.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 365,
-    "timeDay": 365,
+    "timeDay": 164,
     "timeWeek": 365,
     "timeMonth": 365,
     "timeYear": 365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-11": 0
+    }
   }
 ]
