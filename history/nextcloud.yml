@@ -1,7 +1,7 @@
 url: https://nextcloud.theodupont.fr
-status: up
-code: 200
-responseTime: 744
-lastUpdated: 2025-07-05T23:14:05.238Z
+status: down
+code: 523
+responseTime: 3290
+lastUpdated: 2025-07-06T21:43:19.044Z
 startTime: 2025-01-13T09:26:49.447Z
 generator: Upptime <https://github.com/upptime/upptime>
