@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1340,
-    "timeDay": 745,
-    "timeWeek": 1465,
-    "timeMonth": 1815,
-    "timeYear": 1628,
+    "time": 1343,
+    "timeDay": 1958,
+    "timeWeek": 1418,
+    "timeMonth": 1818,
+    "timeYear": 1633,
     "dailyMinutesDown": {
       "2025-09-02": 16,
       "2025-09-03": 50,
@@ -31,16 +31,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.theodupont.fr.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "48.35%",
+    "uptime": "48.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "26.80%",
-    "time": 476,
-    "timeDay": 944,
-    "timeWeek": 974,
-    "timeMonth": 810,
-    "timeYear": 336,
+    "uptimeYear": "27.07%",
+    "time": 471,
+    "timeDay": 672,
+    "timeWeek": 938,
+    "timeMonth": 812,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2026-05-06": 375,
       "2026-05-05": 1440,
@@ -307,8 +307,7 @@
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
-      "2025-08-14": 1440,
-      "2025-08-13": 1440
+      "2025-08-14": 1440
     }
   },
   {
@@ -317,16 +316,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.theodupont.fr.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "48.40%",
+    "uptime": "48.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "26.80%",
-    "time": 341,
-    "timeDay": 395,
-    "timeWeek": 395,
-    "timeMonth": 415,
-    "timeYear": 224,
+    "uptimeYear": "27.07%",
+    "time": 335,
+    "timeDay": 339,
+    "timeWeek": 389,
+    "timeMonth": 416,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2026-05-06": 375,
       "2026-05-05": 1440,
@@ -593,8 +592,7 @@
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
-      "2025-08-14": 1440,
-      "2025-08-13": 1440
+      "2025-08-14": 1440
     }
   }
 ]
