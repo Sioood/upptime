@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1415,
-    "timeDay": 1855,
-    "timeWeek": 1730,
-    "timeMonth": 1606,
-    "timeYear": 1704,
+    "time": 1417,
+    "timeDay": 862,
+    "timeWeek": 1585,
+    "timeMonth": 1613,
+    "timeYear": 1700,
     "dailyMinutesDown": {
       "2025-10-20": 105,
       "2025-10-25": 16,
@@ -28,16 +28,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.theodupont.fr.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "50.58%",
+    "uptime": "50.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.93%",
-    "time": 441,
-    "timeDay": 1003,
-    "timeWeek": 904,
-    "timeMonth": 866,
-    "timeYear": 380,
+    "uptimeYear": "34.21%",
+    "time": 436,
+    "timeDay": 702,
+    "timeWeek": 884,
+    "timeMonth": 860,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2026-05-06": 375,
       "2026-05-05": 1440,
@@ -278,8 +278,7 @@
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
-      "2025-09-09": 1440,
-      "2025-09-08": 1440
+      "2025-09-09": 1440
     }
   },
   {
@@ -288,16 +287,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.theodupont.fr.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "50.64%",
+    "uptime": "50.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.93%",
-    "time": 289,
-    "timeDay": 426,
-    "timeWeek": 404,
-    "timeMonth": 382,
-    "timeYear": 232,
+    "uptimeYear": "34.21%",
+    "time": 283,
+    "timeDay": 301,
+    "timeWeek": 405,
+    "timeMonth": 381,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2026-05-06": 375,
       "2026-05-05": 1440,
@@ -538,8 +537,7 @@
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
-      "2025-09-09": 1440,
-      "2025-09-08": 1440
+      "2025-09-09": 1440
     }
   }
 ]
