@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1430,
-    "timeDay": 1824,
-    "timeWeek": 1783,
-    "timeMonth": 1637,
-    "timeYear": 1706,
+    "time": 1431,
+    "timeDay": 809,
+    "timeWeek": 1605,
+    "timeMonth": 1599,
+    "timeYear": 1707,
     "dailyMinutesDown": {
       "2025-10-20": 105,
       "2025-10-25": 16,
@@ -28,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.theodupont.fr.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "50.99%",
+    "uptime": "51.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.31%",
-    "time": 427,
-    "timeDay": 703,
-    "timeWeek": 783,
-    "timeMonth": 833,
+    "uptimeYear": "35.58%",
+    "time": 417,
+    "timeDay": 862,
+    "timeWeek": 753,
+    "timeMonth": 839,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2026-05-06": 375,
@@ -273,8 +273,7 @@
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
-      "2025-09-14": 1440,
-      "2025-09-13": 1440
+      "2025-09-14": 1440
     }
   },
   {
@@ -283,16 +282,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.theodupont.fr.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "51.04%",
+    "uptime": "51.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.31%",
-    "time": 272,
-    "timeDay": 313,
-    "timeWeek": 346,
-    "timeMonth": 365,
-    "timeYear": 231,
+    "uptimeYear": "35.58%",
+    "time": 267,
+    "timeDay": 403,
+    "timeWeek": 334,
+    "timeMonth": 367,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2026-05-06": 375,
       "2026-05-05": 1440,
@@ -528,8 +527,7 @@
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
-      "2025-09-14": 1440,
-      "2025-09-13": 1440
+      "2025-09-14": 1440
     }
   }
 ]
