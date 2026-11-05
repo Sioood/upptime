@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1575,
-    "timeDay": 2408,
-    "timeWeek": 1896,
-    "timeMonth": 1606,
+    "uptimeYear": "100.00%",
+    "time": 1579,
+    "timeDay": 2099,
+    "timeWeek": 2148,
+    "timeMonth": 1658,
     "timeYear": 1676,
     "dailyMinutesDown": {
       "2026-03-01": 16
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.theodupont.fr.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "54.93%",
+    "uptime": "55.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.85%",
-    "time": 440,
-    "timeDay": 1049,
-    "timeWeek": 970,
-    "timeMonth": 913,
-    "timeYear": 489,
+    "uptimeYear": "50.12%",
+    "time": 441,
+    "timeDay": 937,
+    "timeWeek": 958,
+    "timeMonth": 918,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2026-05-06": 375,
       "2026-05-05": 1440,
@@ -217,8 +217,7 @@
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
-      "2025-11-06": 1440,
-      "2025-11-05": 1440
+      "2025-11-06": 1440
     }
   },
   {
@@ -227,16 +226,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/immich.theodupont.fr.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "54.98%",
+    "uptime": "55.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.85%",
-    "time": 269,
-    "timeDay": 464,
-    "timeWeek": 443,
-    "timeMonth": 413,
-    "timeYear": 262,
+    "uptimeYear": "50.12%",
+    "time": 270,
+    "timeDay": 373,
+    "timeWeek": 437,
+    "timeMonth": 412,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2026-05-06": 375,
       "2026-05-05": 1440,
@@ -419,8 +418,7 @@
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
-      "2025-11-06": 1440,
-      "2025-11-05": 1440
+      "2025-11-06": 1440
     }
   }
 ]
